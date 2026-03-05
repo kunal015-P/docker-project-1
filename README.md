@@ -1,1 +1,2 @@
 # docker-project-1
+I built a production-style containerized web application using Docker. The architecture includes Nginx as a reverse proxy, Gunicorn as the WSGI server, Flask for the web application, and PostgreSQL as the database. Docker Compose was used to orchestrate multiple containers, and environment variables were used for configuration. Persistent volumes were implemented for database storage.
